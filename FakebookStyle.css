@@ -1,0 +1,37 @@
+h1 {
+    color: #0000cc;
+    font-size: 35px;
+    }
+/* pika (.) pomeni class */
+
+.uporabnik{
+    color: black;
+    font-family: Arial;
+    font-size: 22px;
+    text-decoration: underline;
+    letter-spacing: 3px
+}
+
+.green {
+    color:green;
+}
+
+.TipPisave {
+    font-family: calibri;
+    font-size: 18px;
+}
+
+.link {
+    color:red;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+img {
+    width: 225px;
+    border: 3px black dotted;
+}
+
+img:hover {
+    border: 5px black solid;
+}
